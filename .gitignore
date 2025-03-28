@@ -1,0 +1,7 @@
+libs/*
+onto_input/*
+onto_output/*
+
+!libs/.gitkeep
+!onto_input/.gitkeep
+!onto_output/.gitkeep
